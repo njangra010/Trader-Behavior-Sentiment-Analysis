@@ -10,7 +10,6 @@ The analysis merges trader data with sentiment scores based on date, followed by
 ## 📂 Files in this Repository
 - **notebook_1.ipynb** — Main Google Colab notebook containing the full analysis and code.
 - **requirements.txt** — List of Python dependencies to reproduce the notebook.
-- *(Optional)* CSV dataset files if sharing is permitted.
 
 ---
 
